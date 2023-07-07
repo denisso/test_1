@@ -1,0 +1,5 @@
+config.js
+**/config.js
+secure/
+secret/
+*.hacker
